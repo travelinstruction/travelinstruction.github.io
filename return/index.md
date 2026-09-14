@@ -27,6 +27,10 @@ Which airport are you flying out of?
   </a>
 </div>
 
+Travelling to any of them by bus? If you have a Korean credit or check card you can buy the ticket
+yourself in the TmoneyGO app — the app is Korean-only, so we wrote a
+[step-by-step guide with annotated screenshots](/return/tmoneygo/).
+
 <div id="map"></div>
 <script language="javascript">
 var redIcon = new L.Icon({

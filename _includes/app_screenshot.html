@@ -1,0 +1,21 @@
+{%- comment -%}
+Annotated app screenshot.
+  src     — image path
+  alt     — alt text
+  caption — text under the image (optional)
+  boxes   — semicolon-separated highlight boxes, each "left,top,width,height,label"
+            all four numbers are percentages of the image; label is optional.
+{%- endcomment -%}
+<figure class="appshot">
+  <div class="appshot__frame">
+    <img src="{{ include.src }}" alt="{{ include.alt }}" loading="lazy">
+    {%- assign boxlist = include.boxes | split: ";" -%}
+    {%- for b in boxlist -%}
+    {%- assign p = b | split: "," -%}
+    <span class="appshot__box" style="left:{{ p[0] }}%;top:{{ p[1] }}%;width:{{ p[2] }}%;height:{{ p[3] }}%;">{% if p[4] %}<span class="appshot__tag">{{ p[4] }}</span>{% endif %}</span>
+    {%- endfor -%}
+  </div>
+  {%- if include.caption %}
+  <figcaption class="appshot__caption">{{ include.caption }}</figcaption>
+  {%- endif %}
+</figure>

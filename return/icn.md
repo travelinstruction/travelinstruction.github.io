@@ -45,7 +45,7 @@ On Uber, you can search "Inter-city bus" and pick the result whose address is "6
 <h3 id="method1-2">Step 2 @ Doryong Inter-City Bus Stop — Buy the ticket and board</h3>
 
 
-The easiest method is to ask people in Korea: they can buy your bus ticket on the app "TMoney Go" and pay by a Korean credit card. Then there will be a ticket with a QR code. You should get the screenshot of your ticket having the QR code. When you board the bus, you show the QR code on your phone to the scanner on the bus.
+If you hold a Korean credit or check card, you can buy the ticket yourself in the **TmoneyGO** app — see our [step-by-step guide with annotated screenshots](/return/tmoneygo/). Otherwise, ask people in Korea: they can buy your bus ticket on the app "TmoneyGO" and pay by a Korean credit card. Then there will be a ticket with a QR code. You should get the screenshot of your ticket having the QR code. When you board the bus, you show the QR code on your phone to the scanner on the bus.
 
 There is no ticket office here; buy your ticket at the machine. <del>Previously it was possible to reserve it [online at https://txbuse.t-money.co.kr](https://txbuse.t-money.co.kr)
 and print it at the machine before you leave. However, it is reported that this is no longer possible with international credit cards. You will likely want the following:</del>
@@ -93,7 +93,7 @@ There are many bus stops around the Government Complex — city bus stops and se
 <h3 id="method2-2">Step 2 @ Government Complex Bus Stop — Buy the ticket and board</h3>
 
 
-The easiest method is to ask people in Korea: they can buy your bus ticket on the app "TMoney Go" and pay by a Korean credit card. Then there will be a ticket with a QR code. You should get the screenshot of your ticket having the QR code. When you board the bus, you show the QR code on your phone to the scanner on the bus.
+If you hold a Korean credit or check card, you can buy the ticket yourself in the **TmoneyGO** app — see our [step-by-step guide with annotated screenshots](/return/tmoneygo/). Otherwise, ask people in Korea: they can buy your bus ticket on the app "TmoneyGO" and pay by a Korean credit card. Then there will be a ticket with a QR code. You should get the screenshot of your ticket having the QR code. When you board the bus, you show the QR code on your phone to the scanner on the bus.
 
 You can buy the ticket in person at the ticket office (open 6:00–21:15). 
 <del>(Previously it was possible to reserve it [online at https://txbuse.t-money.co.kr](https://txbuse.t-money.co.kr) (choose **Daejeon Gov Complex(airport route)** as the departure) and print it at the machine, as described in Method 1. However it has been reported that it no longer accepts international credit cards.)</del>
